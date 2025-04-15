@@ -8,5 +8,4 @@ Compiler bisa menggunakan pdfLATEX atau XeLaTeX <br />
 ----------------------------------------------------------------------------------------------------------- <br />
 You can also use TexWork, overleaf, and any other LaTeX editor <br />
 ----------------------------------------------------------------------------------------------------------- <br />
-Ongoing project: make this template to .sty file and you can use \usepackage{POMITS} for easier use for beginner
------------------------------------------------------------------------------------------------------------ <br />
+Ongoing project: make this template to .sty file and you can use \usepackage{POMITS} for easier use for beginner 
