@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8c2358d-283d-49d7-92bb-35f0816c8f16) <br />
+![image](https://github.com/user-attachments/assets/f3d9200e-6fbe-493f-b42d-ae9d2aae1e4b) <br />
 Template POMITS ini menggunakan vscode dengan aplikasi tambahan seperti Strawberry Perl dan MikTex <br />
 Link untuk install VSCode: https://code.visualstudio.com/download <br />
 Link untuk install Strawberry Perl: https://strawberryperl.com/ (pilih versi MSI) <br />
