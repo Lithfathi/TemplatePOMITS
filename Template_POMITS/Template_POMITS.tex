@@ -12,9 +12,6 @@
 \usepackage{caption}
 \usepackage[english]{babel}
 \usepackage{csquotes}
-\usepackage[backend=biber, style=ieee]{biblatex}
-\usepackage{hyperref}
-\usepackage{bookmark}
 \usepackage{multicol}
 \usepackage[center]{titlesec}
 \usepackage{fancyhdr}
@@ -33,13 +30,7 @@
     protrusion=true,
     expansion=false}
 % Bibliography setup
-\defbibheading{bibliography}[\refname]{%
-  \section*{DAFTAR PUSTAKA}%
-}
-\AtBeginDocument{%
   \renewcommand{\refname}{DAFTAR PUSTAKA}%
-  \renewcommand{\bibname}{DAFTAR PUSTAKA}%
-}
 
 % Set page margins with reduced top margin
 \geometry{
@@ -69,7 +60,8 @@
 \fancyhead[L]{\color{gray!70}\small Journal of Physics and Applications}
 \fancyhead[R]{\color{gray!70}\thepage} % Grey page number in top right
 \fancyfoot{}
-
+\usepackage{hyperref}
+\usepackage{bookmark}
 % Title and authors
 \title{\fontsize{24pt}{28pt}\selectfont Gaya Selingkung dan \textit{Template} Artikel Ilmiah Jurnal Sains dan Seni ITS}
 \author{
@@ -108,7 +100,7 @@
 \textbf{Kata Kumci—keyword1,keyword2}
 \section{PENDAHULUAN}
 \lettrine[lines=2, lraise=-0, nindent=0pt, findent=-1pt]
-{\fontsize{28pt}{28pt}\selectfont D}{}\smallcaps{OKUMEN} ini adalah \textit{template} untuk Microsoft \textit{Word} versi 6.0 ke atas. \textit{Template} ini sengaja diambilkan dan dimodifikasi dari situs \textit{IEEE} untuk \textit{Preparation of Papers for IEEE TRANSACTIONS and JOURNALS} dengan maksud agar Anda lebih dekat mengenal penulisan artikel ilmiah pada jurnal internasional.
+{\fontsize{28pt}{28pt}\selectfont D}{}\smallcaps{OKUMEN} ini adalah \textit{template} untuk Microsoft \textit{Word} versi 6.0 ke atas. \textit{Template} ini sengaja diambilkan dan dimodifikasi dari situs \textit{IEEE} untuk \textit{Preparation of Papers for IEEE TRANSACTIONS and JOURNALS} dengan maksud agar Anda lebih dekat mengenal penulisan artikel ilmiah pada jurnal internasional.\cite{1}
 \section{METODOLOGI}
 \lipsum
 \section{PEMBAHASAN}
@@ -142,8 +134,6 @@
 \section{KESIMPULAN}
 \lipsum
 % Bibliography
-\printbibliography[heading=bibliography]
-
 \begin{thebibliography}{99}
 \bibitem{1} 
 G. O. Young, ``Synthetic structure of industrial plastics,'' in \textit{Plastics}, 2\textsuperscript{nd} ed. Vol. 3, J. Peters, Ed. New York: McGraw-Hill, 1964, pp. 15--64.
