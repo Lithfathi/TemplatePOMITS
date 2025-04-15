@@ -1,16 +1,10 @@
 # Fdb version 4
-["biber Template_POMITS"] 1744592537.23554 "Template_POMITS.bcf" "Template_POMITS.bbl" "Template_POMITS" 1744595781.95432 0
-  "Template_POMITS.bcf" 1744595777 107646 49d7eecf5293c3e57ef42c36ab8f85fd "xelatex"
-  (generated)
-  "Template_POMITS.bbl"
-  "Template_POMITS.blg"
-  (rewritten before read)
-["xdvipdfmx"] 1744595779.29047 "Template_POMITS.xdv" "Template_POMITS.pdf" "Template_POMITS" 1744595782.00304 0
-  "Template_POMITS.xdv" 1744595778 167256 c234c598d7bbeaaf13239d2a0af73c5f "xelatex"
+["xdvipdfmx"] 1744735505.09476 "Template_POMITS.xdv" "Template_POMITS.pdf" "Template_POMITS" 1744735509.19739 0
+  "Template_POMITS.xdv" 1744735504 167404 9730aa5742259c7825cc4d6c1d6d66c2 "xelatex"
   (generated)
   "Template_POMITS.pdf"
   (rewritten before read)
-["xelatex"] 1744595765.54795 "c:/Users/asus/OneDrive/Documents/vscode/Template_POMITS/Template_POMITS.tex" "Template_POMITS.xdv" "Template_POMITS" 1744595781.95531 0
+["xelatex"] 1744735497.84988 "c:/Users/asus/OneDrive/Documents/vscode/Template_POMITS/Template_POMITS.tex" "Template_POMITS.xdv" "Template_POMITS" 1744735509.16499 0
   "C:/Users/asus/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1744207552 25521020 fbf5f05fff10b1bb44759a0cd88df970 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136747054 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -47,7 +41,6 @@
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.sty" 1575926700 19007 15924f7228aca6c6d184b115f4baa231 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.sty" 1623005277 20089 80423eac55aa175305d35b49e04fe23b ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.sty" 1575105840 21514 b7557edcee22835ef6b03ede1802dad4 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/generic/unicode-data/UnicodeData.txt" 1736240576 2175362 f50a0495d2000b7d6dd979cb40e00ba2 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquecounter.sty" 1576434012 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex" 1656236919 19231 27205ee17aaa2902aea3e0c07a3cfc65 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.tex" 1656236919 7677 9cb1a74d945bc9331f2181c0a59ff34a ""
@@ -71,20 +64,6 @@
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty" 1738160243 5525 9dced5929f36b19fa837947f5175b331 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1738160243 8449 ffe4ba2166a344827c3a832d1d5e0a91 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty" 1738160243 2846 e26604d3d895e65d874c07f30c291f3f ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-ieee/ieee.bbx" 1741953950 20562 98c82b823dfb4f568b73a27dfacfe75a ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-ieee/ieee.cbx" 1741953950 1656 4038b2d03a8ad3057f56478781bd4b19 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/numeric-comp.bbx" 1711466047 92 7cdbb04a1e32fba0fbb91b6e6d123497 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/numeric.bbx" 1711466047 1818 9ed166ac0a9204a8ebe450ca09db5dde ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/standard.bbx" 1711466047 25680 409c3f3d570418bc545e8065bebd0688 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.cfg" 1711466047 69 249fa6df04d948e51b6d5c67bea30c42 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.def" 1711466047 96838 228f189cb4020ea9f6d467af8aa859c2 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.sty" 1711466047 533961 a8d65602d822bf3d3c823e6dc4922bbc ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-case-expl3.sty" 1711466047 9961 107fdb78f652fccae7bce0d23bdc19cd ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-compat.def" 1711466047 13919 5426dbe90e723f089052b4e908b56ef9 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-dm.def" 1711466047 32761 18d14e3b502c120f79b2184de4e21d14 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-unicode.def" 1711466047 3786 1f89d14780f0ad89ab94652b37f4e9b8 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/cbx/numeric-verb.cbx" 1711466047 2572 a3d826c7f13332f510994e94197e914a ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/english.lbx" 1711466047 40021 daa5a82ed0967f3ac4b77cb8384cac55 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/bookmark/bkm-dvipdfm.def" 1702988341 5654 f5f3b5a1e60310c5a2ac1fad700b131a ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/bookmark/bookmark.sty" 1702988341 18245 97e6be180cf07bb6f7008cfdaaecfce5 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 f1cb470c9199e7110a27851508ed7a5c ""
@@ -129,8 +108,6 @@
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex" 1633253722 95525 6fd0552101a6b1f9b7a84b402ec435ba ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.sty" 1633253722 14690 c2c754218a7108db7823a4839c1bc3cd ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd" 1430474546 1867 996fe743d88a01aca041ed22cc10e1bb ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.def" 1280941015 1620 fb1c32b818f2058eca187e5c41dfae77 ""
-  "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype-xetex.def" 1739317595 28582 05df45896f96323df292cf513c6771dc ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.cfg" 1739317595 27015 bd167d0154f271c424b157d8894ae4a4 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.sty" 1739317595 102775 6624742dafeb6f262a13657f9f77f048 ""
@@ -160,16 +137,12 @@
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/asus/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "Template_POMITS.aux" 1744595777 1409 c2a3839bbe0f664bde7ab4209da42466 "xelatex"
-  "Template_POMITS.bbl" 1744592543 0 d41d8cd98f00b204e9800998ecf8427e "biber Template_POMITS"
-  "Template_POMITS.run.xml" 1744595778 2433 5be6ae80c6c7980c7eae44b95f10ecbd "xelatex"
-  "Template_POMITS.tex" 1744595744 5764 62b9e02176bbf5a8ca377df664f76c1d ""
-  "c:/Users/asus/OneDrive/Documents/vscode/Template_POMITS/Template_POMITS.tex" 1744595744 5764 62b9e02176bbf5a8ca377df664f76c1d ""
+  "Template_POMITS.aux" 1744735504 1305 5311a26cefd5363b70c2b39a41b89749 "xelatex"
+  "Template_POMITS.tex" 1744735495 6334 bdbc740f95ec7a9c86a1b79d98dfc3f2 ""
+  "c:/Users/asus/OneDrive/Documents/vscode/Template_POMITS/Template_POMITS.tex" 1744735495 6334 bdbc740f95ec7a9c86a1b79d98dfc3f2 ""
   "fig1.png" 1744454006 137913 ee8a13078e2a672aab801d2aa94b36e8 ""
   (generated)
   "Template_POMITS.aux"
-  "Template_POMITS.bcf"
   "Template_POMITS.log"
-  "Template_POMITS.run.xml"
   "Template_POMITS.xdv"
   (rewritten before read)

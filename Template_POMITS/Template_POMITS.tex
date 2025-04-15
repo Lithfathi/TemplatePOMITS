@@ -61,6 +61,28 @@
 \fancyhead[R]{\color{gray!70}\thepage} % Grey page number in top right
 \fancyfoot{}
 \usepackage{hyperref}
+\makeatletter
+% Completely redefine thebibliography environment
+\renewenvironment{thebibliography}[1]
+     {\section*{DAFTAR PUSTAKA}%  % Force the title we want
+      \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\makeatother
 \usepackage{bookmark}
 % Title and authors
 \title{\fontsize{24pt}{28pt}\selectfont Gaya Selingkung dan \textit{Template} Artikel Ilmiah Jurnal Sains dan Seni ITS}
